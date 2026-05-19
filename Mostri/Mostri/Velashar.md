@@ -1,0 +1,1 @@
+bipede con una vela sopra il suo copro. Utilizza l'elemento ghiaccio ed utilizza la sua vela come arma. Ha una serie di vele apribili anche a lati del corpo. Può posizionarsi come uno spinosauro quindi sia bipede che quadrupede

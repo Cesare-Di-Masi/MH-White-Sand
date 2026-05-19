@@ -1,0 +1,1 @@
+dai racconti è descritto solamente come una creatura estremamente veloce con armi taglienti, il suo canto fece svenire anche i più abili cacciatori
