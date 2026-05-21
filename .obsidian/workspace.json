@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Il Mondo/Regioni/Hunting Dream.md",
+                "file": "Mostri/Mostri/Velashar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunting Dream"
+              "title": "Velashar"
             }
           }
         ]
@@ -170,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -200,31 +200,38 @@
   },
   "active": "7b773bd85bdfc7f9",
   "lastOpenFiles": [
-    "Equipaggiamento/Super-Armi/Classe Aurora.md",
+    "Avventura/Partenza dalla città.md",
+    "Storia/I Il velo bianco.md",
+    "Avventura",
+    "Storia/Avventura/Spedizione.md",
+    "Scienza/Wylk Bimorfo/Wylk Bimorfo.md",
+    "Scienza/Ibridi/Narga-Grex.md",
+    "Scienza/Ibridi/Ratha-Kadachi.md",
+    "Il Mondo/Regioni/Nuovo Mondo.md",
+    "Il Mondo/Regioni/Mare di Noctiluca.md",
     "Il Mondo/Regioni/Hunting Dream.md",
+    "Equipaggiamento/Super-Armi/Classe Aurora.md",
+    "Mostri/Mostri/Velashar.md",
+    "zImages/ChatGPT Image May 21, 2026, 11_50_05 AM.png",
+    "Mostri/Mostri/Meltemi.md",
+    "Mostri/Mostri/Hotoge.md",
+    "Mostri/Mostri/Gōrikishi.md",
+    "Mostri/Mostri/Daikyojin.md",
+    "Mostri/Mostri/Fenridon.md",
+    "Mostri/Mostri/Mendako.md",
+    "Mostri/Mostri/Rathomb.md",
+    "Mostri/Varianti/Tyrant Elden Dragon.md",
+    "Personaggi/Note NPC/Storie NPC.md",
+    "Personaggi/Note NPC/Nomi.md",
+    "Personaggi/Note NPC",
+    "Personaggi/Senza nome.md",
     "Storia/Spedizioni per le Hunting Dreams.md",
     "Storia/VI Spedizione sulle spiagge del nord.md",
     "Storia/V La guerra.md",
-    "Il Mondo/Regioni/Nuovo Mondo.md",
-    "Il Mondo/Regioni/Mare di Noctiluca.md",
-    "Mostri/Mostri/Velashar.md",
     "Template/Region.md",
-    "Il Mondo/Località/Monte Platino.md",
-    "Mostri/Varianti/Tyrant Elden Dragon.md",
-    "zImages/ChatGPT Image May 21, 2026, 11_50_05 AM.png",
     "Template",
-    "Storia/Avventura/Spedizione.md",
-    "Mostri/Mostri/Rathomb.md",
     "Storia/Avventura",
-    "Mostri/Mostri/Mendako.md",
-    "Mostri/Mostri/Hotoge.md",
-    "Mostri/Mostri/Meltemi.md",
-    "Mostri/Mostri/Gōrikishi.md",
-    "Mostri/Mostri/Fenridon.md",
-    "Mostri/Mostri/Daikyojin.md",
-    "Possibilità.md",
     "Senza nome.canvas",
-    "Storia/I Il velo bianco.md",
     "zImages/Pasted image 20260520173839.png",
     "zImages/Pasted image 20260520173705.png",
     "zImages/Pasted image 20260520173509.png",
@@ -232,17 +239,10 @@
     "zImages/Pasted image 20260520173232.png",
     "zImages",
     "zImages/Pasted image 20260520172915.png",
-    "Politica/Casate Nobili/Le Famiglie Nobili.md",
-    "Appunti.md",
     "Mostri/Mostri",
-    "Mostri/Varianti/Deviant/Fatalis Grigio.md",
-    "Mostri/Varianti/Deviant/Lost Voice Legiana.md",
-    "Mostri/Varianti/Deviant/Imperial Malzeno.md",
     "Mostri/Varianti/Deviant",
     "Mostri/Varianti",
     "Scienza/Ibridi",
-    "Scienza/Wylk Bimorfo",
-    "Equipaggiamento/Super-Armi/Fortezza Ant Drago",
-    "Equipaggiamento/Super-Armi"
+    "Scienza/Wylk Bimorfo"
   ]
 }

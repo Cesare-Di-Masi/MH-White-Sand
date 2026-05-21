@@ -1,1 +1,1 @@
-![[Pasted image 20260520173232.png]]
+![[Pasted image 20260520173232.png]]esemplare maschio 

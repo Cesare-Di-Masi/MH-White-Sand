@@ -1,1 +1,4 @@
-la nuovissima classe di nave dell'imperium, utilizzata per i più grandi combattimenti e per le spedizione verso le Hunting Dream
+la nuovissima classe di nave dell'imperium, utilizzata per i più grandi combattimenti e per le spedizione verso le Hunting Dream.
+Le navi più famose sono:
+Baltimora
+Stige
