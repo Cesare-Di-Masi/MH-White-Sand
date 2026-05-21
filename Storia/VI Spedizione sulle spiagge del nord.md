@@ -8,15 +8,11 @@
     
 - Legge marziale in tutte le Stelle
     
-- Spedizione per la Costa Nord del continente (Costa di Platino)
+- Spedizione per la Costa Nord del continente nano (Costa di Platino)
     
 - Scoperta di montagne composte da minerali sconosciuti
-    
-- Avvistamento di tempeste vive sopra il mare del nord
-    
-- Prime morti per congelamento biologico
-    
-- Creazione della ammiraglia Baltimora
+        
+- Costruzione della ammiraglia Baltimora
     
 - Attacco alla città di marmo da cui parte la spedizione (con i player)
     

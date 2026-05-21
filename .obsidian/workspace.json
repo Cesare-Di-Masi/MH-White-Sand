@@ -13,66 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mostri/Mostri/Velashar.md",
+                "file": "Il Mondo/Regioni/Hunting Dream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velashar"
-            }
-          },
-          {
-            "id": "456a434bbbbffe41",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zzzImages/Pasted image 20260520173839.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260520173839"
-            }
-          },
-          {
-            "id": "ce83d916e0fba473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/VI Spedizione sulle spiagge del nord.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VI Spedizione sulle spiagge del nord"
-            }
-          },
-          {
-            "id": "bda229037c956038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mostri/Varianti/Tyrant Elden Dragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tyrant Elden Dragon"
-            }
-          },
-          {
-            "id": "594fe2bfdd692eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luoghi/Località/Monte Platino.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monte Platino"
+              "title": "Hunting Dream"
             }
           }
         ]
@@ -217,8 +163,19 @@
               "icon": "lucide-list",
               "title": "Struttura di Senza nome"
             }
+          },
+          {
+            "id": "cdc355c493eafcd3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,53 +190,59 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "bases:Crea nuova Base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7b773bd85bdfc7f9",
   "lastOpenFiles": [
-    "Mostri/Varianti/Tyrant Elden Dragon.md",
-    "Storia/I Il velo bianco.md",
-    "Luoghi/Località/Monte Platino.md",
+    "Equipaggiamento/Super-Armi/Classe Aurora.md",
+    "Il Mondo/Regioni/Hunting Dream.md",
+    "Storia/Spedizioni per le Hunting Dreams.md",
     "Storia/VI Spedizione sulle spiagge del nord.md",
-    "zzzImages/Pasted image 20260520173839.png",
+    "Storia/V La guerra.md",
+    "Il Mondo/Regioni/Nuovo Mondo.md",
+    "Il Mondo/Regioni/Mare di Noctiluca.md",
     "Mostri/Mostri/Velashar.md",
-    "Mostri/Mostri/Hotoge.md",
-    "Mostri/Mostri/Gōrikishi.md",
-    "Mostri/Mostri/Mendako.md",
+    "Template/Region.md",
+    "Il Mondo/Località/Monte Platino.md",
+    "Mostri/Varianti/Tyrant Elden Dragon.md",
+    "zImages/ChatGPT Image May 21, 2026, 11_50_05 AM.png",
+    "Template",
+    "Storia/Avventura/Spedizione.md",
     "Mostri/Mostri/Rathomb.md",
+    "Storia/Avventura",
+    "Mostri/Mostri/Mendako.md",
+    "Mostri/Mostri/Hotoge.md",
     "Mostri/Mostri/Meltemi.md",
-    "zzzImages/Pasted image 20260520173705.png",
-    "zzzImages/Pasted image 20260520173509.png",
+    "Mostri/Mostri/Gōrikishi.md",
     "Mostri/Mostri/Fenridon.md",
-    "zzzImages/Pasted image 20260520173300.png",
-    "zzzImages/Pasted image 20260520173232.png",
     "Mostri/Mostri/Daikyojin.md",
-    "zzzImages",
-    "zzzImages/Pasted image 20260520172915.png",
     "Possibilità.md",
-    "Politica/Famiglie Nobili/Le Famiglie Nobili.md",
+    "Senza nome.canvas",
+    "Storia/I Il velo bianco.md",
+    "zImages/Pasted image 20260520173839.png",
+    "zImages/Pasted image 20260520173705.png",
+    "zImages/Pasted image 20260520173509.png",
+    "zImages/Pasted image 20260520173300.png",
+    "zImages/Pasted image 20260520173232.png",
+    "zImages",
+    "zImages/Pasted image 20260520172915.png",
+    "Politica/Casate Nobili/Le Famiglie Nobili.md",
     "Appunti.md",
     "Mostri/Mostri",
     "Mostri/Varianti/Deviant/Fatalis Grigio.md",
     "Mostri/Varianti/Deviant/Lost Voice Legiana.md",
     "Mostri/Varianti/Deviant/Imperial Malzeno.md",
-    "Mostri/Varianti/Deviant/Lost Horn Zingore.md",
-    "Mostri/Varianti/Deviant/Feral Deviljho.md",
     "Mostri/Varianti/Deviant",
-    "Scienza/Ibridi/Narga-Grex.md",
     "Mostri/Varianti",
-    "Scienza/Ibridi/Ratha-Kadachi.md",
-    "Scienza/Wylk Bimorfo/Wylk Bimorfo.md",
     "Scienza/Ibridi",
-    "Equipaggiamento/Super-Armi/Fortezza Ant Drago/Fortezza Anti Drago.md",
     "Scienza/Wylk Bimorfo",
-    "Equipaggiamento/Super-Armi/Fortezza Ant Drago/Difese Speciali.md",
-    "Equipaggiamento/Super-Armi/Fortezza Ant Drago/Nucleo.md",
     "Equipaggiamento/Super-Armi/Fortezza Ant Drago",
-    "Equipaggiamento/Super-Armi",
-    "Equipaggiamento/Applicazioni del Wylk",
-    "Culti e religione/Culti",
-    "Senza nome.canvas"
+    "Equipaggiamento/Super-Armi"
   ]
 }

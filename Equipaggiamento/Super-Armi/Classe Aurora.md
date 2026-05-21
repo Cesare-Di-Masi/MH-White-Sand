@@ -1,0 +1,1 @@
+la nuovissima classe di nave dell'imperium, utilizzata per i più grandi combattimenti e per le spedizione verso le Hunting Dream
