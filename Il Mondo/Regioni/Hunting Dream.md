@@ -9,9 +9,9 @@ Dopo 3 anni delle 40 navi della flotta solo 4 tornarono e solo 1 in buone condiz
 L'Imperium non appena seppe di queste notizie continuò a mandare spedizioni ogni circa decennio per carpire più informazioni possibili su questo nuovo continente,. in queste spedizioni partono solamente i cacciatori più abili trasportati dalle navi più potenti dell'Imperium: La [[Classe Aurora]] circondate da una decina di navi più piccole ma pur sempre capaci di supportare la nave
 Fino ad ora sono state mandate 10 spedizioni e sono tornate circa solo 27 navi
 
-# Geography
-## Climate
-## Environment
+# Geografia
+## Clima
+## Ambiente
 ## Fauna
 
 ## Flora

@@ -26,4 +26,8 @@ Il velashar presenta un corno che si allunga fino a circa 4/7 della lunghezza de
 questo corno presenta delle piccolissime vele che lo rendono quindi affilato.
 La punta del corno è la parte più strana del corno per non è dritta, ma è "arricciata" come su fosse la punta di una lancia, questo perché il velashar utilizza il corn per catturare le prede, inoltre può essere comodo per caricare i mostri o altri velashar
 
-Coda
+Coda:
+La coda del velashar è all'incirca lunga l'80% del Valashar, ai lati presenta una vela che deriva dalla congiunzione delle 4 vele laterali
+Al termine della coda troviamo una punta di ghiaccio composito da più strati estremamente sottili e affilati
+La coda del velashar al centro presenta una formazione che sembra che la tagli in 2, questo è stato poi spiegato da un studio successivo dove si è scoperto che la coda del velashar si può aprire in un ventaglio di ghiaccio utilizzato sia per combattere che per mostrare la propria bellezza. 
+La coda viene utilizzata non solo come arma ma anche uno strumento per la propria danza di accoppiamento con un esemplare femminile, I velashar più promettenti sono quelli con una coda più grande, lucente e bella

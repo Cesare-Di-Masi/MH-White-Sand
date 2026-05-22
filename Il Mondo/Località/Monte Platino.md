@@ -1,13 +1,8 @@
 Montagna composta dalla pioggia di wylk cristallizzata ed ossidata dove apparve il Fatalis Grigio.
 
-L’aria è piena di cenere metallica.
+Montagna situata al confine sud delle Eastlands caratterizzata da eventi metereologici caotici che rendono la possibilità di vita impossibile:
+	 L’aria è piena di cenere metallica rendendola irrespirabile
+	I fulmini sono un concentrato di elemento drago rendendo impossibile la presenza di altri eventi
+	Le bussole smettono di funzionare dato il fortissimo campo magnetico causato dall'aria e dai fulmini
 
-I fulmini sono neri.
-
-Le bussole smettono di funzionare.
-
-La fauna locale è completamente mutata.
-
-Sotto la montagna si sentono battiti giganteschi.
-
-Molti credono che il Fatalis non sia realmente morto.
+# Storia
