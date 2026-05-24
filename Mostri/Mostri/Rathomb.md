@@ -1,1 +1,0 @@
-solo terrestre, plani, utilizzi esplosioni per lanciarsi in aria. Utilizza esplosioni come arma e per aumentare il suo movimento, estremamente corazzato

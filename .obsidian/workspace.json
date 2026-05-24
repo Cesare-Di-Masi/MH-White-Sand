@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "208f48e2e694a530",
+        "id": "55609251f1005a5d",
         "type": "tabs",
         "children": [
           {
-            "id": "7b773bd85bdfc7f9",
+            "id": "2fc2dcaa391f3f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Il Mondo/Regioni/Mare di Noctiluca.md",
+                "file": "Mostri/Mostri/Velashar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mare di Noctiluca"
+              "title": "Velashar"
             }
           }
         ]
@@ -198,41 +198,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b773bd85bdfc7f9",
+  "active": "2fc2dcaa391f3f7f",
   "lastOpenFiles": [
-    "Il Mondo/Regioni/Hunting Dream.md",
-    "Il Mondo/Regioni/Mare di Noctiluca.md",
-    "Il Mondo/Regioni/Catena della luna.md",
-    "Il Mondo/Località/Monte Platino.md",
-    "Mostri/Mostri/Gōrikishi.md",
-    "Mostri/Mostri/Hotoge.md",
+    "Possibilità.md",
+    "Mostri/Mostri/Velashar.md",
+    "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png",
+    "Storia/Spedizioni Imperiale/Spedizione Katabasis.md",
     "Mostri/Mostri/Mendako.md",
     "Mostri/Mostri/Meltemi.md",
+    "Mostri/Mostri/Gōrikishi.md",
+    "Mostri/Mostri/Hotoge.md",
     "Mostri/Mostri/Oryctomus.md",
+    "Mostri/Mostri/Daikyojin.md",
+    "Mostri/Mostri/Fenridon.md",
+    "Il Mondo/Località/Cicatrice della Fiaccola.md",
+    "Il Mondo/Regioni/Mare di Noctiluca.md",
+    "Il Mondo/Regioni/Eastlands.md",
+    "Storia/Spedizioni Imperiale/Spedizioni Imperiale.md",
+    "Equipaggiamento/Super-Armi/Classe Aurora.md",
+    "Storia/Spedizioni Imperiale",
+    "Storia/I Il velo bianco.md",
+    "Il Mondo/Regioni/Hunting Dream.md",
+    "Politica/L'Imperium/Imperium.md",
     "Mostri/Mostri/Rathomb.md",
-    "Mostri/Mostri/Velashar.md",
+    "Il Mondo/Regioni/Catena della luna.md",
+    "Il Mondo/Località/Monte Platino.md",
     "zImages/Oryctomus/Pasted image 20260522103803.png",
     "zImages/Oryctomus/Pasted image 20260522103724.png",
     "zImages/Oryctomus",
     "zImages/Oryctomus/Pasted image 20260522103852.png",
     "Avventura/Partenza dalla città.md",
-    "Storia/I Il velo bianco.md",
     "Avventura",
     "Storia/Avventura/Spedizione.md",
     "Scienza/Wylk Bimorfo/Wylk Bimorfo.md",
     "Scienza/Ibridi/Narga-Grex.md",
     "Scienza/Ibridi/Ratha-Kadachi.md",
-    "Il Mondo/Regioni/Nuovo Mondo.md",
-    "Equipaggiamento/Super-Armi/Classe Aurora.md",
     "zImages/ChatGPT Image May 21, 2026, 11_50_05 AM.png",
-    "Mostri/Mostri/Daikyojin.md",
-    "Mostri/Mostri/Fenridon.md",
-    "Mostri/Varianti/Tyrant Elden Dragon.md",
-    "Personaggi/Note NPC/Storie NPC.md",
-    "Personaggi/Note NPC/Nomi.md",
     "Personaggi/Note NPC",
-    "Personaggi/Senza nome.md",
-    "Storia/Spedizioni per le Hunting Dreams.md",
     "Template",
     "Storia/Avventura",
     "Senza nome.canvas",
@@ -242,10 +244,8 @@
     "zImages/Pasted image 20260520173300.png",
     "zImages/Pasted image 20260520173232.png",
     "zImages",
-    "zImages/Pasted image 20260520172915.png",
     "Mostri/Mostri",
     "Mostri/Varianti/Deviant",
-    "Mostri/Varianti",
-    "Scienza/Ibridi"
+    "Mostri/Varianti"
   ]
 }

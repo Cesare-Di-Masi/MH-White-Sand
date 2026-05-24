@@ -1,33 +1,127 @@
-![[ChatGPT Image May 21, 2026, 11_50_05 AM.png]]
-quadrupede con una vela sopra il suo corpo. Utilizza l'elemento ghiaccio ed utilizza la sua vela come arma. Ha una serie di vele apribili anche a lati del corpo. La testa è abbastanza robusta e ricorda quella di uno Spinosauro mista a quella di un devill'jho quindi meno robusta e rotondeggiante, è più piatta. La sua caratteristica è la "lama" che ha proprio sulla punta che grazie alle sue vele può essere anche un'arma. La punta della lama termina a una distanza di circa 4/7 della lunghezza del capo
-Gli occhi sono grandi e solitamente di un colore nerastro o biancastro in base al periodo dell'anno/traumi/ecc...
-La colorazione è solitamente un mix di colori in base all'individuo ma si va sempre su un colore pastello che si mischia al bianco formando dei pattern sgargianti, fino ad ora ogni individuo registrato presenta sempre quella che si può chiamare Morph diversa dato che hanno pattern e colorazioni moltissimi tipi.
-Gli arti superiori presentano degli artigli retrattili estremamente affilati che provocano sanguinamento, come sono estremamente affilati sono anche fragili a colpi contundenti
-Si è notato che le vele sono estremamente resistenti e si rigenerano abbastanza velocemente.
-E' preferibilmente un quadrupede ma ciò non vuol dire che non può posizionarsi in una posizione bipede in certi casi
-Le vele sono caratterizzate da un profilo di ghiaccio estremamente affilato che può provocare sanguinamento
-La coda è abbastanza piatta composta da carne ma con un evidente taglio di circa 35 centimetri che la divide dalla metà in su. Questo taglio durante i combattimenti si apre mostrano praticamente ventaglio gigantesco di ghiaccio che utilizza come un'arma. Questo ventaglio in base all'individuo può avere un disegno di diverso tipo, è stato osservato diversi esemplari prendersene molta cura togliendo parti non affilate abbastanza, danneggiate o non belle abbastanza per fare parte della coda.
-Il Velashar è stato descritto come un esemplare estremamente egocentrico e tenta sempre di mettersi in mostra  contro altri maschi innescando combattimenti anche contro creature che non caccia abitualmente solo per il malsano ideale di mostrare la sua bellezza e il suo combattimento.
-Il Velashar utilizza uno stile di combattimento che sembra quasi una danza che ricorda diversi stili come il Tessenjutsu, Kenbu e il Taiji Shan che prevede l'uso sia della sua coda che delle sue altre vele sul corpo e la "lama" che trova sulla testa.
-Dato la sua costante voglia di combatte non è insolito trovare dei maschi che hanno subito danni anche di grave entità, cicatrici, danni al corno e in alcuni individui addirittura la perdita di un occhio
+---
+aliases: [Velashar]
+tags: [gilda/ricerca, mostro/quadrupede-dentato, elemento/ghiaccio]
+classe: Quadrupede Dentato
+elemento: Ghiaccio
+pericolosità: 7
+---
+---
+tipo: Scheda Mostro
+id_documento: GRN-0471-V
+gilda: Grande Gilda dei Cacciatori — Ufficio di Ricerca Naturalistica
+riservatezza: Uso Interno / Rango Alto e superiore
+aggiornamento: IV trimestre
+mostro: Velashar
+classe: Quadrupede Dentato (Wyvern Fanged Quadrupede)
+elemento: Ghiaccio
+pericolosità: 7
+---
 
-Le vele:
-Le vele sono composte da fibre muscolari resistentissime che fungono da protezione per il passaggio di moltissimi nervi e vasi sanguigni.
-le vele sono un organo importantissimo per il Velashar poichè gli permettono di nuotare con grande agilità in acqua e quindi di cacciare in maniera estremamente efficace, inoltre le vele hanno lo scopo di autoregolare il calore corporeo in maniera tale da raffreddare il più possibile il suo coprpo. Le vele dato il loro profilo di ghiaccio hanno anche una funzione da arma molto importante dato che proteggono il velashar da attacchi di piccole creature e permettono anche di tenere alla larga altri mostri. Sul velashar troviamo 6 vele principali: 2 dorsali e 2 per oni lato ad altezza circa diverse ma con distanza uguale.
-Le vele dorsali hanno lo scopo di mostrare la bellezza del Velashar dato che presentano una serie di disegni che il Velashar durante la sua vita va a formare grazie ald ustioni da chaccio auto inflitte.
-Infatti le vele dorsali sono la parte più sensiubile al freddo e il velashar tramite la chiusura delle vele riesce a imprimere una bruciatura da freddo che in base all'intensità può anche cambiare il come riflette la luce, colore,ecc...
-Quando il velashar combatte apre  le 4 vele (non quelle dorsali) per imporsi ed utilizzarle per attaccare. Quando entra in fase endraged apre anche le vele dorsali che emettono un vapore di freddo assurdo dato che la parte di corpo è vicino all'organo che produce il ghiaccio. Una volta che ciò accade il VElashar sarà in grado di emettere così ghiaccio che le vele, la coda ,la lama e gli artigli cresceranno aumentando così il raggio di attacco e i danni inflitti da essi
+# VELASHAR
+### Quadrupede Dentato Velato delle Nevi · Wyvern Fanged Quadrupede
 
-Sangue:
-Il sangue del Velashar è blue dato che non presenta la necessità di trasportare grandi quantità di ossigeno alle proprie cellule e quindi il sangue manca di emoglobina, Ciò gli permette di avere una maggiore esplosione di forza e velocità ma al costo di che può durare solo pochi minuti prima di avere un collasso
+| Classe | Elemento | Habitat | Pericolosità |
+| :--- | :--- | :--- | :--- |
+| Quadrupede Dentato | Ghiaccio | Litorali glaciali, Laghi artici, Altopiani polari | ★★★★★★★ |
 
-Corno:
-Il velashar presenta un corno che si allunga fino a circa 4/7 della lunghezza del capo
-questo corno presenta delle piccolissime vele che lo rendono quindi affilato.
-La punta del corno è la parte più strana del corno per non è dritta, ma è "arricciata" come su fosse la punta di una lancia, questo perché il velashar utilizza il corn per catturare le prede, inoltre può essere comodo per caricare i mostri o altri velashar
+| Lunghezza totale | Altezza al garrese | Debolezze | Resistenze | Avvistamenti doc. |
+| :--- | :--- | :--- | :--- | :--- |
+| ~18,0 m | ~6,5 m | Fuoco · Tuono | Ghiaccio · Acqua | 82 confermati |
 
-Coda:
-La coda del velashar è all'incirca lunga l'80% del Valashar, ai lati presenta una vela che deriva dalla congiunzione delle 4 vele laterali
-Al termine della coda troviamo una punta di ghiaccio composito da più strati estremamente sottili e affilati
-La coda del velashar al centro presenta una formazione che sembra che la tagli in 2, questo è stato poi spiegato da un studio successivo dove si è scoperto che la coda del velashar si può aprire in un ventaglio di ghiaccio utilizzato sia per combattere che per mostrare la propria bellezza. 
-La coda viene utilizzata non solo come arma ma anche uno strumento per la propria danza di accoppiamento con un esemplare femminile, I velashar più promettenti sono quelli con una coda più grande, lucente e bella
+---
+
+> [!info] Nota di Classificazione
+> Il presente documento costituisce la scheda esemplare ufficiale del Velashar, redatta dall'Ufficio di Ricerca Naturalistica della Grande Gilda sulla base di ottantadue avvistamenti documentati, ventisei cacce completate e quattordici esemplari studiati in cattività parziale. Le integrazioni fisiologiche contenute nelle sezioni IV e V incorporano le revisioni approvate dal Consiglio dei Ricercatori di Rango Superiore nella sessione del corrente trimestre. Ogni informazione è verificata; le note marcate con ⚑ indicano osservazioni di campo non ancora soggette a revisione formale.
+
+---
+
+## I — Descrizione Generale
+**I**l Velashar è un quadrupede dentato di taglia eccezionalmente imponente, con una lunghezza totale — coda compresa — di circa diciotto metri e un'altezza al garrese di sei metri e mezzo. È classificato tra i Quadrupedi Dentati delle regioni polari, benché la sua morfologia presents caratteristiche talmente singolari da renderlo uno degli esemplari più dibattuti tra i naturalisti della Gilda negli ultimi due decenni.
+
+Ciò che colpisce l'osservatore — anche il più esperto — non è la dimensione, né la pericolosità immediata che emana dalla sua postura. È la bellezza. Una bellezza scomoda, quasi insolente, che il Velashar porta su di sei come un'arma primaria, ancor prima di aprire una singola vela.
+
+---
+
+## II — Morfologia Esterna
+Il cranio del Velashar presenta una struttura appiattita e allungata, a metà strada tra la massività di uno Spinosauro e il profilo aguzzo del Deviljho, ma con una piattezza e un'eleganza che nessuno dei due possiede. Dalla sommità del muso si protrae il cosiddetto **corno-lama**: una struttura ossea che si estende fino a circa quattro settimi della lunghezza totale del capo, percorsa da lamelle cornee affilatissime. La punta non termina dritta, ma si ripiega su sé stessa con un'arricciatura che ricorda il gancio di una lancia da cerimonia. Questa conformazione — inizialmente interpretata come un difetto di crescita — è un adattamento preciso: il Velashar utilizza il corno per bloccare le prede vive, puntandolo sotto la pelle o tra le squame senza dilaniare la carne. Preferisce la preda intera.
+
+La colorazione del Velashar sfugge a ogni tentativo di categorizzazione cromatica standard. Il colore di base si colloca sempre nella gamma pastello — dall'azzurro celadon al lavanda desaturato, dal rosa antico al bianco avorio — che si mescola al bianco in pattern asimmetrici mai ripetuti tra individui. I ricercatori classificano ogni esemplare con una **morph** individuale: una firma visiva che comprende schema, tonalità e riflettività. Non è stata finora documentata alcuna coppia con pattern cromatico identico.
+
+Lungo la gola, la linea mediana del petto e la superficie interna degli arti anteriori, il Velashar porta una fascia di **scaglie filiformi** semi-trasparenti, disposte in ciuffi ravvicinati. La loro struttura interna contiene cristalli nanometrici a funzione prismatica: a seconda dell'angolazione della luce e della posizione dell'osservatore, la stessa fascia cambia colore — dal bianco neutro all'oro, al turchese, al violetto. Due osservatori posti a novanta gradi l'uno dall'altro vedono colorazioni completamente diverse sullo stesso esemplare. Questa proprietà ottica, selezionata evolutivamente, rende il Velashar visivamente imprevedibile a seconda del punto di osservazione — un vantaggio tanto in combattimento quanto in corteggiamento.
+
+### II.a — Stato degli Occhi: Indicatore Comportamentale
+
+| Stato Occhio | Significato Comportamentale |
+| :--- | :--- |
+| 🔴 **Nero profondo** | Stagione fredda, trauma grave o surraffreddamento da *enrage* prolungato. Stato di sofferenza o torpore. |
+| ⚪ **Bianco opalescente** | Stagione estiva, calma relativa. Assenza di esibizione attiva. Non esclude il pericolo. |
+| 🔵 **Grigio-azzurro luminoso** | Combattimento ritualizzato, esibizione attiva. Massima capacità prestazionale. Segnale più pericoloso rilevabile. ⚑ |
+
+---
+
+## III — Le Vele
+Il Velashar porta sul corpo sei vele principali disposte simmetricamente: due dorsali e quattro laterali, queste ultime distribuite a coppie su entrambi i fianchi a diverse altezze. Non esistono altri quadrupedi dentati documentati con un apparato velico di complessità anatomica paragonabile.
+
+Ogni vela è composta da una struttura a doppio strato funzionalmente distinto. Il **nucleo vascolare** — strato interno — è un tessuto denso di fibre muscolari, vasi sanguigni e terminazioni nervose altamente specializzate. È questa componente che permette alla vela di percepire variazioni di pressione, temperatura e vibrazione con una sensibilità paragonabile a quella di un organo sensoriale dedicato: in acqua, il Velashar è in grado di rilevare il movimento di una preda a distanza di venti metri in condizioni di completa oscurità o torbidità. Il **margine corneo** — strato esterno — è invece quasi completamente avascolare, composto da proteine strutturali dense analoghe alla cheratina del corno rinocerontico, e distribuito di **ghiandole criosecretorie** microscopiche. Queste producono una soluzione antigelo biologicamente attiva che, a contatto con l'aria fredda, cristallizza in ghiaccio composito: laminare, trasparente e affilato a livello submillimetrico. Il margine corneo è la struttura usata come arma; il nucleo vascolare non viene mai esposto al contatto diretto con superfici ostili.
+
+Le **quattro vele laterali** si aprono durante il combattimento — una distensione rapida, quasi esplosiva — e il profilo di ghiaccio emergente costituisce un perimetro di lame fisse che estende l'ingombro fisico dell'esemplare di oltre il doppio, proteggendolo simultaneamente dagli assalti laterali di creature minori. Le **vele dorsali** hanno funzione diversa: sono la superficie espressiva del Velashar. Il tessuto membranoso che le compone concentra la massima densità di ghiandole criosecretorie, e il Velashar — con tecnica deliberata — imprime su questa membrana bruciature da freddo auto-inflitte, chiudendo le vele alla massima potenza secretiva e incidendo pattern geometrici nel tessuto. Col tempo, queste bruciature diventano cicatrici traslucide che modificano il modo in cui la membrana riflette la luce: la biografia biologica visibile dell'esemplare, leggibile da chiunque sappia interpretarla. Maggiore la complessità dei pattern, maggiore l'esperienza e la dominanza del soggetto. Nella **fase di enrage**, le vele dorsali si aprono completamente e le ghiandole entrano in iperproduzione, emettendo un vapore gelido visibile fino a cinquanta metri. Il ghiaccio cresce visibilmente su vele, coda, corno e artigli — ma questo processo drena progressivamente le riserves termiche dell'esemplare.
+
+> [!quote] ⚑ Nota di campo — Ricercatore Aldric Venn, Spedizione Artica IV
+> «Le vele dorsali, nella piena fase di enrage, emettono una luce bluastra diffusa attraverso le cicatrici criosecretorie. I pattern luminosi sono identici, per struttura geometrica, a quelli visibili in condizioni normali — ma la luminosità li rende leggibili a distanza doppia. Un esemplare di terza età con storia combattiva densa presenta un'illuminazione che ho trovato, onestamente, più inquietante di qualsiasi ruggito udito in vent'anni di servizio.»
+
+---
+
+## IV — Fisiologia Speciale
+Il sangue del Velashar è di colore blu intenso, privo di emoglobina. Il trasporto dell'ossigeno avviene tramite **emocianina** — una proteina a base di rame la cui efficienza aumenta significativamente a basse temperature. In acqua gelata, il Velashar ossigena i propri tessuti con un'efficacia superiore a quella di qualsiasi concorrente emoglobinico: il suo ambiente non è una limitazione, ma un vantaggio fisiologico reale. In ambienti temperati, il Velashar è invece metabolicamente svantaggiato — fatto di cui i cacciatori più esperti hanno imparato a tenere conto nella scelta del terreno di ingaggio.
+
+La capacità di esplosione muscolare — descritta dai cacciatori come *«una velocità impossibile per un animale di quella taglia»* — non è una proprietà del sangue, ma della muscolatura. I fasci muscolari veloci del Velashar contengono riserves di **mioemerithrina**, una proteina di stoccaggio dell'ossigeno che permette contrazioni anaerobiche di elevata potenza per un intervallo di due-quattro minuti, indipendentemente dall'apporto circolatorio. Esaurite queste riserve, l'esemplare entra in un debito ossigenativo reale e necessita di un periodo di recupero osservabile. Questa è la finestra che i cacciatori esperti cercano — ma è anche la finestra che certi esemplari, con storia combattiva documentata, imparano a simulare deliberatamente.
+
+La produzione del ghiaccio non avviene internamente. Le ghiandole criosecretorie distribuite lungo i margini delle vele, sulla coda e sul perimetro del corno producono una secrezione esterna che cristallizza a contatto con l'aria fredda attraverso un processo esotermico localizzato: il calore viene estratto dalla secrezione stessa, non dai tessuti corporei. Le strutture di ghiaccio che ricoprono il Velashar in combattimento sono dunque un rivestimento esterno attivo — il che le rende fisiologicamente possibili senza violare i vincoli termici di un organism vertebrato vivo.
+
+---
+
+## V — La Coda
+La coda raggiunge una lunghezza pari a circa l'ottanta percento della lunghezza totale dell'esemplare, rendendola uno degli organi caudali proporzionalmente più grandi tra i quadrupedi dentati documentati. Ai lati presenta una vela derivata dalla congiunzione delle vele laterali posteriori, che le conferisce un profilo piatto e idrodinamico funzionale alla propulsione acquatica ad alta velocità.
+
+La caratteristica strutturale più peculiare è la presenza di due colonne di **osso dermico** parallele che percorrono la lunghezza della coda a partire dalla sua metà. Queste colonne possono pivotare verso l'esterno su una cresta sinoviale centrale, aprendo la coda in un ventaglio di lamelle ossee di considerevole apertura, rivestite di ghiaccio criosecretorio. La superficie interna di ciascuna lamella è percorsa da pattern geometrici formati da microscopiche variazioni di spessore — unici per ogni individuo, che rifrangono la luce differentemente e costituiscono una seconda firma visiva, complementare a quella delle vele dorsali.
+
+I maschi si prendono cura del ventaglio caudale con meticolosità ossessiva. Rimuovono le lamelle danneggiate, opache o geometricamente imperfette — una selezione volontaria che non è vanità decorativa ma manutenzione funzionale: una lamella asimmetrica o irregolare altera le proprietà acustiche del ventaglio, compromettendo l'emissione degli infrasuoni territoriali. Gli esemplari anziani presentano spesso un numero ridotto di lamelle rispetto ai giovani — non per usura, ma per eliminazione selettiva di quelle ritenute insufficienti.
+
+---
+
+## VI — Etologia e Comportamento Territoriale
+Il Velashar è un territoriale solitario a dominanza maschile. Costruisce e mantiene una struttura permanente attorno alla propria area di riposo: una rete radiale di pilastri di ghiaccio, creste e bacini congelati prodotti dalle ghiandole criosecretorie, che serve contemporaneamente come marcatura chimica del territorio, come ambiente acustico amplificato per i segnali infrasonici e come terreno di combattimento ottimizzato — geometria nota al Velashar centimetro per centimetro, sconosciuta a qualsiasi intruso.
+
+Il Velashar produce **infrasuoni** attraverso la tensione rapida e rilasciata delle costole dermiche del ventaglio caudale. Questi impulsi, inferiori alla soglia uditiva umana, causano nausea, disorientamento e perdita di equilibrio negli organismi entro quindici-venti metri. I pilastri di ghiaccio del territorio li amplificano e li riflettono, creando un campo acustico irregolare e disorientante per chiunque non ne conosca la geometria.
+
+I maschi si scontrano regolarmente per il controllo dei corridoi migratori delle prede stagionali — i percorsi dei pesci artici e dei cetacei minori che costituiscono la base alimentare della specie. Il combattimento è altamente ritualizzato, strutturato in una sequenza di movimenti di tale fluidità che i ricercatori hanno impiegato tre anni a comprendere fosse combattimento e non corteggiamento. La struttura ricorda pratiche umane come il *Tessenjutsu* e il *Kenbu*: l'uso combinato di coda, vele e corno-lama in movimenti coordinati che sembrano una danza. Non è un combattimento finalizzato all'uccisione — è una valutazione. Il perdente si ritira. Tranne nei casi in cui non può permetterselo, ed è per questo che gli esemplari adulti portano cicatrici profonde, corni scheggiati, occhi persi.
+
+---
+
+## VII — Comportamento in Combattimento
+Il Velashar non combatte per sopravvivere. Combatte perché vuole farlo, e questa distinzione è la più pericolosa che esista quando si affronta un quadrupede dentato di diciotto metri.
+
+Nella fase iniziale, l'esemplare apre le quattro vele laterali con un'unica distensione esplosiva — un segnale di dominio visivo prima ancora che una preparazione offensiva. Segue la sequenza della **danza di duello**: movimenti ampi, circolari, con utilizzo alternato di coda, vele e corno-lama che sembrano calibrati tanto per colpire quanto per essere osservati. La nebbia criosecretoria può essere rilasciata in qualsiasi momento, riducendo la visibilità a pochi metri nel raggio di venti: il Velashar naviga questo ambiente tramite la sensibilità pressoria delle sue vele; il cacciatore no.
+
+Il **taglio circolare** — apertura esplosiva del ventaglio caudale con rotazione del corpo — è l'attacco a più ampio raggio documentato, in grado di colpire bersagli a distanze superiori ai dodici metri con il profilo di ghiaccio delle lamelle ossee. La **carica con corno-lama** è la tecnica d'atterramento: l'esemplare abbassa il cranio e accelera, usando il gancio della punta per bloccare o trascinare il bersaglio.
+
+> [!danger] ⚠ AVVISO DI RANGO SUPERIORE
+> * Il cacciatore che affronta un Velashar nel proprio territorio si trova in un ambiente costruito contro di lui: ghiaccio in cui l'esemplare si muove senza incertezza, infrasuoni che il corpo registra sotto forma di nausea e disequilibrio, campo visivo distorto dalla nebbia criosecretoria.
+> * Dopo l'esaurimento delle riserve di mioemerithrina, il Velashar mostrerà i segnali classici del collasso: abbassamento della testa, chiusura parziale delle vele, rallentamento del respiro. **Non avvicinatevi.** Certi esemplari — specialmente i maschi anziani — hanno imparato a simulare questo collasso mantenendo una riserva parziale di reazione. L'unico segnale affidabile è lo stato dell'occhio: nel collasso reale, l'iride vira al nero profondo. Nel collasso simulato, conserva una traccia di grigio-azzurro luminoso.
+> * In fase di enrage prolungato oltre i sei-otto minuti, il Velashar diventa progressivamente più lento e più rigido nei movimenti — il costo fisiologico dell'iperproduzione criosecretoria. Se sopravvivete ai primi minuti, i successivi lavorano a vostro favore. *Se.*
+> * Non dimenticate mai: questo mostro si preoccupa di come appare mentre vi uccide.
+
+---
+
+## VIII — Materiali Ottenibili
+
+| Materiale | Rarità | Fonte | Note |
+| :--- | :--- | :--- | :--- |
+| **Scaglia di Velashar** | `Comune` | Superficie dorsale | Cristallina, riflessi iridescenti. Materia prima per armature di rango alto. |
+| **Membrana velica** | `Non comune` | Margine corneo delle vele laterali | Estremamente resistente, lievissima. Armature ad alta mobilità. |
+| **Frammento di corno-lama** | `Non comune` | Rottura del corno in combattimento | Struttura a lamelle, tagliente a livello sub-millimetrico. Instabile senza trattamento. |
+| **Lamella caudale** | `Raro` | Ventaglio della coda | Pattern geometrico unico per individuo. Oggetto da collezione di prima categoria. |
+| **Sangue blu coagulato** | `Non comune` | Raccolta immediata post-abbattimento | Perde le proprietà in meno di quattro ore. Impieghi alchemici avanzati. |
+| **Scaglia filiforme iridescente** | `Raro` | Zona ventrale e gola | Proprietà ottica angolo-dipendente. Oggetti decorativi di pregio assoluto. |
+| **Cristallo criosecretorio** | `Rarissimo` | Estrazione chirurgica delle ghiandole | Instabile. Richiede contenimento a temperatura controllata. Uso: armamenti elementali. |
+| **Membrana velica dorsale cicatrizzata** | `Rarissimo` | Vele dorsali di esemplari anziani | Pattern bioluminescente unico. Nessun altro materiale presenta questa proprietà ottica. |
