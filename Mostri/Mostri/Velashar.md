@@ -13,10 +13,9 @@ riservatezza: Uso Interno / Rango Alto e superiore
 aggiornamento: IV trimestre
 mostro: Velashar
 classe: Quadrupede Dentato (Wyvern Fanged Quadrupede)
-elemento: Ghiaccio
-pericolosità: 7
----
 
+---
+![[ChatGPT Image May 23, 2026, 08_58_47 AM(1).jpg]]
 # VELASHAR
 ### Quadrupede Dentato Velato delle Nevi · Wyvern Fanged Quadrupede
 
