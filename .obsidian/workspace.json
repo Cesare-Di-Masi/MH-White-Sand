@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Velashar"
             }
+          },
+          {
+            "id": "f650409faec60bc0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png"
+              },
+              "icon": "lucide-image",
+              "title": "ChatGPT Image May 23, 2026, 08_58_47 AM"
+            }
           }
         ]
       }
@@ -200,10 +212,16 @@
   },
   "active": "2fc2dcaa391f3f7f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM(1).jpg",
     "Mostri/Mostri/Velashar.md",
     "Mostri/Mostri/Oryctomus.md",
     "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png",
+=======
+    "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png",
+    "Mostri/Mostri/Velashar.md",
+    "Mostri/Mostri/Oryctomus.md",
+>>>>>>> a6663e95cffae78652b187ff2e4090eb9e6c2cf9
     "Possibilità.md",
     "Storia/Spedizioni Imperiale/Spedizione Katabasis.md",
     "Mostri/Mostri/Mendako.md",
