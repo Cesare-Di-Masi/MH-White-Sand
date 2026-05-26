@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "c101f17a2d21d7cd",
+    "id": "735e37b11e56cab6",
     "type": "split",
     "children": [
       {
-        "id": "55609251f1005a5d",
+        "id": "7368a8f78b1559c9",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc2dcaa391f3f7f",
+            "id": "7a8d7747211353ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mostri/Mostri/Velashar.md",
+                "file": "Il Mondo/Località/Cicatrice della Fiaccola.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velashar"
-            }
-          },
-          {
-            "id": "f650409faec60bc0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "ChatGPT Image May 23, 2026, 08_58_47 AM"
+              "title": "Cicatrice della Fiaccola"
             }
           }
         ]
@@ -39,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8b5381a4ba2c1997",
+    "id": "7964b4b2f9444d15",
     "type": "split",
     "children": [
       {
-        "id": "60c9da0837641906",
+        "id": "98bcd2746085b0a0",
         "type": "tabs",
         "children": [
           {
-            "id": "fbae0385ca2f6785",
+            "id": "d2be11bb414ab488",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +48,7 @@
             }
           },
           {
-            "id": "6f9b7ae4c3855abc",
+            "id": "acda11ce2a384ed8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +65,7 @@
             }
           },
           {
-            "id": "451abc2e7a6a82bd",
+            "id": "db53043494a35b0b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "6b36437bf8250f7d",
+    "id": "de943ee237ea9ee7",
     "type": "split",
     "children": [
       {
-        "id": "70d7df29d81eb262",
+        "id": "df6c3860a7a60e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "fec4254a6b665630",
+            "id": "86c91e5e54bad762",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -120,20 +108,21 @@
             }
           },
           {
-            "id": "4b64774f5779d73f",
+            "id": "753d165cd36e61d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mostri/Mostri/Velashar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Velashar"
             }
           },
           {
-            "id": "b1246f331ca3c4e3",
+            "id": "f80d2a8b6baeabf2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +137,7 @@
             }
           },
           {
-            "id": "40366d310d75fbcb",
+            "id": "4058b2b050580267",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,32 +151,21 @@
             }
           },
           {
-            "id": "aebd504f38fffac0",
+            "id": "946ed152686260cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senza nome.canvas",
+                "file": "Mostri/Mostri/Velashar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Senza nome"
-            }
-          },
-          {
-            "id": "cdc355c493eafcd3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Struttura di Velashar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,59 +188,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fc2dcaa391f3f7f",
+  "active": "7a8d7747211353ca",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM(1).jpg",
-    "Mostri/Mostri/Velashar.md",
-    "Mostri/Mostri/Oryctomus.md",
-    "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png",
-=======
-    "zImages/ChatGPT Image May 23, 2026, 08_58_47 AM.png",
-    "Mostri/Mostri/Velashar.md",
-    "Mostri/Mostri/Oryctomus.md",
->>>>>>> a6663e95cffae78652b187ff2e4090eb9e6c2cf9
-    "Possibilità.md",
-    "Storia/Spedizioni Imperiale/Spedizione Katabasis.md",
-    "Mostri/Mostri/Mendako.md",
-    "Mostri/Mostri/Meltemi.md",
-    "Mostri/Mostri/Gōrikishi.md",
-    "Mostri/Mostri/Hotoge.md",
-    "Mostri/Mostri/Daikyojin.md",
-    "Mostri/Mostri/Fenridon.md",
+    "Il Mondo/Eventi/Ciclo del Wylk.md",
     "Il Mondo/Località/Cicatrice della Fiaccola.md",
-    "Il Mondo/Regioni/Mare di Noctiluca.md",
-    "Il Mondo/Regioni/Eastlands.md",
-    "Storia/Spedizioni Imperiale/Spedizioni Imperiale.md",
-    "Equipaggiamento/Super-Armi/Classe Aurora.md",
-    "Storia/Spedizioni Imperiale",
-    "Storia/I Il velo bianco.md",
-    "Il Mondo/Regioni/Hunting Dream.md",
-    "Politica/L'Imperium/Imperium.md",
-    "Mostri/Mostri/Rathomb.md",
-    "Il Mondo/Regioni/Catena della luna.md",
+    "Il Mondo/Eventi",
     "Il Mondo/Località/Monte Platino.md",
-    "zImages/Oryctomus/Pasted image 20260522103803.png",
-    "zImages/Oryctomus/Pasted image 20260522103724.png",
-    "zImages/Oryctomus",
-    "zImages/Oryctomus/Pasted image 20260522103852.png",
-    "Avventura/Partenza dalla città.md",
-    "Avventura",
-    "Storia/Avventura/Spedizione.md",
-    "Scienza/Wylk Bimorfo/Wylk Bimorfo.md",
-    "Scienza/Ibridi/Narga-Grex.md",
-    "zImages/ChatGPT Image May 21, 2026, 11_50_05 AM.png",
-    "Personaggi/Note NPC",
-    "Template",
-    "Storia/Avventura",
-    "Senza nome.canvas",
-    "zImages/Pasted image 20260520173839.png",
-    "zImages/Pasted image 20260520173705.png",
-    "zImages/Pasted image 20260520173509.png",
-    "zImages/Pasted image 20260520173300.png",
-    "zImages",
-    "Mostri/Mostri",
-    "Mostri/Varianti/Deviant",
-    "Mostri/Varianti"
+    "Il Mondo/Regioni/Eastlands.md",
+    "Il Mondo/Regioni/Hunting Dream.md",
+    "Il Mondo/Regioni/Mare di Noctiluca.md",
+    "Il Mondo/Regioni/Nuovo Mondo.md",
+    "Storia/Spedizioni Imperiale/Spedizione Katabasis.md",
+    "Storia/Spedizioni Imperiale/Spedizioni Imperiale.md",
+    "Mostri/Varianti/Tyrant Elden Dragon.md",
+    "Mostri/Mostri/Velashar.md"
   ]
 }

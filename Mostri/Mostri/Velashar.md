@@ -27,7 +27,7 @@ elemento: Ghiaccio
 ---
 
 ## Descrizione Generale
-**I**l Velashar è un quadrupede dentato di taglia eccezionalmente imponente, con una lunghezza totale — coda compresa — di circa diciotto metri e un'altezza al garrese di sei metri e mezzo. È classificato tra i Quadrupedi Dentati delle regioni polari, benché la sua morfologia presents caratteristiche talmente singolari da renderlo uno degli esemplari più dibattuti tra i naturalisti della Gilda negli ultimi due decenni.
+Il Velashar è un quadrupede dentato di taglia eccezionalmente imponente, con una lunghezza totale — coda compresa — di circa diciotto metri e un'altezza al garrese di sei metri e mezzo. È classificato tra i Quadrupedi Dentati delle regioni polari, benché la sua morfologia presents caratteristiche talmente singolari da renderlo uno degli esemplari più dibattuti tra i naturalisti della Gilda negli ultimi due decenni.
 
 Ciò che colpisce l'osservatore — anche il più esperto — non è la dimensione, né la pericolosità immediata che emana dalla sua postura. È la bellezza. Una bellezza scomoda, quasi insolente, che il Velashar porta su di sei come un'arma primaria, ancor prima di aprire una singola vela.
 
