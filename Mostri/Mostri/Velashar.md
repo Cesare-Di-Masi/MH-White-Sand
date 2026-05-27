@@ -16,8 +16,7 @@ classe: Quadrupede Dentato (Wyvern Fanged Quadrupede)
 elemento: Ghiaccio
 
 ---
-![[ChatGPT Image May 23, 2026, 08_58_47 AM(1).jpg]]
-
+![[Concept-Art-1.jpg]]
 
 ---
 
