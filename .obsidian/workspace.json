@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culti e religione/Religioni/Culto della Stella.md",
+                "file": "Mostri/Mostri/Velashar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Culto della Stella"
+              "title": "Velashar"
             }
           },
           {
@@ -211,6 +211,15 @@
   },
   "active": "03011706d92052fc",
   "lastOpenFiles": [
+    "Mostri/Mostri/Mendako.md",
+    "Mostri/Mostri/Gōrikishi.md",
+    "Mostri/Mostri/Daikyojin.md",
+    "Il Mondo/Città/Dundorma.md",
+    "Il Mondo/Città/Città di marmo.md",
+    "Il Mondo/Città/Castle Shroud.md",
+    "Culti e religione/Religioni/Culto della Stella.md",
+    "Il Mondo/Eventi/Ciclo del Wylk.md",
+    "Il Mondo/Eventi",
     "Equipaggiamento/Applicazioni del Wylk/Armi Vettore Wylk.md",
     "Equipaggiamento/Applicazioni del Wylk/Armature Vettore Wylk.md",
     "Equipaggiamento/Super-Armi/Fortezza Anti Drago/Nucleo.md",
@@ -218,12 +227,10 @@
     "Equipaggiamento/Super-Armi/Fortezza Anti Drago/Difese Speciali.md",
     "Equipaggiamento/Super-Armi/Classe Aurora.md",
     "Il Mondo/Regioni/Nuovo Mondo.md",
-    "Mostri/Mostri/Mendako.md",
     "Politica/L'Imperium/Imperium.md",
     "Politica/Le Casate/Cygnorien.md",
     "Politica/Le Casate/Casata.md",
     "Pasted image 20260527192044.png",
-    "Il Mondo/Città/Città di marmo.md",
     "Politica/Le Casate/Asteri.md",
     "Politica/Le Casate/Garde.md",
     "Personaggi/Deceduti/Cygni.md",
@@ -232,10 +239,8 @@
     "Personaggi/Note NPC/Nomi.md",
     "Personaggi/Note NPC/Storie NPC.md",
     "Mostri/Mostri/Meltemi.md",
-    "Mostri/Mostri/Velashar.md",
     "zImages/Velashar/Concept-Art-1.jpg",
     "zImages/Velashar/Pasted image 20260526174533.png",
-    "zImages/Velashar",
-    "Senza nome.md"
+    "zImages/Velashar"
   ]
 }
