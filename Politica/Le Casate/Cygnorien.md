@@ -52,7 +52,7 @@ Dopo questi lavori, la casata riuscì ad acquisire contratti per la costruzione 
 
 - [[Città di Marmo]]
 - [[Flotte dell'est]]
-- [[Classe Aurora]]
+- [[Porto navale Marmoreo]]
 
 ---
 
